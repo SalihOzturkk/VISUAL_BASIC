@@ -1,0 +1,32 @@
+C:\Users\User\Desktop\24.10.08\24.10.08\bin\Debug\24.10.08.exe.config
+C:\Users\User\Desktop\24.10.08\24.10.08\bin\Debug\24.10.08.exe
+C:\Users\User\Desktop\24.10.08\24.10.08\bin\Debug\24.10.08.pdb
+C:\Users\User\Desktop\24.10.08\24.10.08\bin\Debug\24.10.08.xml
+C:\Users\User\Desktop\24.10.08\24.10.08\obj\Debug\_24._10._08.Form1.resources
+C:\Users\User\Desktop\24.10.08\24.10.08\obj\Debug\_24._10._08.Resources.resources
+C:\Users\User\Desktop\24.10.08\24.10.08\obj\Debug\24.10.08.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\24.10.08\24.10.08\obj\Debug\24.10.08.exe
+C:\Users\User\Desktop\24.10.08\24.10.08\obj\Debug\24.10.08.xml
+C:\Users\User\Desktop\24.10.08\24.10.08\obj\Debug\24.10.08.pdb
+C:\Users\User\Desktop\24.10.08\24.10.08\obj\Debug\_24._10._08.Form2.resources
+E:\ismailllllll\SELAM KAÇMAZ\VB\24.10.08\24.10.08\bin\Debug\24.10.08.exe.config
+E:\ismailllllll\SELAM KAÇMAZ\VB\24.10.08\24.10.08\obj\Debug\24.10.08.exe
+E:\ismailllllll\SELAM KAÇMAZ\VB\24.10.08\24.10.08\obj\Debug\24.10.08.xml
+E:\ismailllllll\SELAM KAÇMAZ\VB\24.10.08\24.10.08\obj\Debug\24.10.08.pdb
+F:\ismailllllll\SELAM KAÇMAZ\VB\24.10.08\24.10.08\bin\Debug\24.10.08.exe.config
+F:\ismailllllll\SELAM KAÇMAZ\VB\24.10.08\24.10.08\obj\Debug\24.10.08.exe
+F:\ismailllllll\SELAM KAÇMAZ\VB\24.10.08\24.10.08\obj\Debug\24.10.08.xml
+F:\ismailllllll\SELAM KAÇMAZ\VB\24.10.08\24.10.08\obj\Debug\24.10.08.pdb
+D:\ismailllllll\SELAM KAÇMAZ\VB\24.10.08\24.10.08\bin\Debug\24.10.08.exe.config
+D:\ismailllllll\SELAM KAÇMAZ\VB\24.10.08\24.10.08\obj\Debug\24.10.08.exe
+D:\ismailllllll\SELAM KAÇMAZ\VB\24.10.08\24.10.08\obj\Debug\24.10.08.xml
+D:\ismailllllll\SELAM KAÇMAZ\VB\24.10.08\24.10.08\obj\Debug\24.10.08.pdb
+D:\ismailllllll\SELAM KAÇMAZ\VB\24.10.08\24.10.08\bin\Debug\24.10.08.exe
+D:\ismailllllll\SELAM KAÇMAZ\VB\24.10.08\24.10.08\bin\Debug\24.10.08.pdb
+D:\ismailllllll\SELAM KAÇMAZ\VB\24.10.08\24.10.08\bin\Debug\24.10.08.xml
+D:\ismailllllll\SELAM KAÇMAZ\VB\24.10.08\24.10.08\obj\Debug\24.10.08.vbproj.AssemblyReference.cache
+D:\ismailllllll\SELAM KAÇMAZ\VB\24.10.08\24.10.08\obj\Debug\_24._10._08.Form1.resources
+D:\ismailllllll\SELAM KAÇMAZ\VB\24.10.08\24.10.08\obj\Debug\_24._10._08.Form2.resources
+D:\ismailllllll\SELAM KAÇMAZ\VB\24.10.08\24.10.08\obj\Debug\_24._10._08.Resources.resources
+D:\ismailllllll\SELAM KAÇMAZ\VB\24.10.08\24.10.08\obj\Debug\24.10.08.vbproj.GenerateResource.cache
+D:\ismailllllll\SELAM KAÇMAZ\VB\24.10.08\24.10.08\obj\Debug\24.10.08.vbproj.CoreCompileInputs.cache

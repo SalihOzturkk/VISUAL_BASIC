@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ismailllllll\\SELAM KA\u00C7MAZ\\VB\\24.10.08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CACFDA1-D5BC-4B05-A460-31F1E9AF13B7}|24.10.08\\24.10.08.vbproj|d:\\ismailllllll\\selam ka\u00E7maz\\vb\\24.10.08\\24.10.08\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8CACFDA1-D5BC-4B05-A460-31F1E9AF13B7}|24.10.08\\24.10.08.vbproj|solutionrelative:24.10.08\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CACFDA1-D5BC-4B05-A460-31F1E9AF13B7}|24.10.08\\24.10.08.vbproj|D:\\ismailllllll\\SELAM KA\u00C7MAZ\\VB\\24.10.08\\24.10.08\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8CACFDA1-D5BC-4B05-A460-31F1E9AF13B7}|24.10.08\\24.10.08.vbproj|solutionrelative:24.10.08\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CACFDA1-D5BC-4B05-A460-31F1E9AF13B7}|24.10.08\\24.10.08.vbproj|d:\\ismailllllll\\selam ka\u00E7maz\\vb\\24.10.08\\24.10.08\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8CACFDA1-D5BC-4B05-A460-31F1E9AF13B7}|24.10.08\\24.10.08.vbproj|solutionrelative:24.10.08\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "D:\\ismailllllll\\SELAM KA\u00C7MAZ\\VB\\24.10.08\\24.10.08\\Form2.vb",
+              "RelativeDocumentMoniker": "24.10.08\\Form2.vb",
+              "ToolTip": "D:\\ismailllllll\\SELAM KA\u00C7MAZ\\VB\\24.10.08\\24.10.08\\Form2.vb",
+              "RelativeToolTip": "24.10.08\\Form2.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-05T10:59:26.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.vb [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\ismailllllll\\SELAM KA\u00C7MAZ\\VB\\24.10.08\\24.10.08\\Form2.vb",
+              "RelativeDocumentMoniker": "24.10.08\\Form2.vb",
+              "ToolTip": "D:\\ismailllllll\\SELAM KA\u00C7MAZ\\VB\\24.10.08\\24.10.08\\Form2.vb [Tasar\u0131m]",
+              "RelativeToolTip": "24.10.08\\Form2.vb [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-03T16:13:18.278Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\ismailllllll\\SELAM KA\u00C7MAZ\\VB\\24.10.08\\24.10.08\\Form1.vb",
+              "RelativeDocumentMoniker": "24.10.08\\Form1.vb",
+              "ToolTip": "D:\\ismailllllll\\SELAM KA\u00C7MAZ\\VB\\24.10.08\\24.10.08\\Form1.vb [Tasar\u0131m]",
+              "RelativeToolTip": "24.10.08\\Form1.vb [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-03T16:13:16.847Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
